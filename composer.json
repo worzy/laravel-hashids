@@ -27,7 +27,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Alexsoft\\LaravelHashids\\": "src/"
+      "Worzy\\LaravelHashids\\": "src/"
     }
   },
   "minimum-stability": "dev"
