@@ -1,5 +1,5 @@
 <?php
-namespace Alexsoft\LaravelHashids\Facades;
+namespace Worzy\LaravelHashids\Facades;
 
 use Illuminate\Support\Facades\Facade;
 

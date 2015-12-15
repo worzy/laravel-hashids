@@ -1,4 +1,4 @@
-<?php namespace Alexsoft\LaravelHashids;
+<?php namespace Worzy\LaravelHashids;
 
 use Hashids\Hashids;
 use Illuminate\Support\ServiceProvider;
