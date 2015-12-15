@@ -1,5 +1,5 @@
 {
-  "name": "alexsoft/laravel-hashids",
+  "name": "worzy/laravel-hashids",
   "description": "Add laravel facade for using hashids/hashids",
   "keywords": [
     "laravel",
@@ -16,8 +16,8 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Alex Plekhanov",
-      "email": "alex@plekhanov.us"
+      "name": "Gareth Drew",
+      "email": "hello@garethdrew.me"
     }
   ],
   "require": {
